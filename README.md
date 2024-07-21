@@ -1,7 +1,6 @@
 ## Hi there I'm Kang👋
 
-<!--
-About Me
+About Me :smile:
 I'm a former Video Game Product Manager turned Computer Science student at 42 Berlin. With a passion for technology and innovation, I am currently diving deep into the world of software development and programming.
 
 My Journey
@@ -18,5 +17,4 @@ Connect with Me
 I'm always eager to connect with like-minded individuals and explore new opportunities. You can find me on LinkedIn where I share my journey and engage with the tech community.
 
 Let's Collaborate
-I'm open to collaborations and various opportunities in the tech industry. Whether it's working on an exciting project, contributing to open-source, or exploring new ideas, I'm enthusiastic about learning and growing together.
--->
+I'm open to collaborations and various opportunities in the tech industry. Whether it's working on an exciting project, contributing to open-source, or exploring new ideas, I'm enthusiastic about learning and growing together
