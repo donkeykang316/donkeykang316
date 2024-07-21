@@ -4,8 +4,7 @@
 I'm a former Video Game Product Manager turned Computer Science student at 42 Berlin. With a passion for technology and innovation, I am currently diving deep into the world of software development and programming.
 
 ## My Journey 🚀
-#### Video Game Product Manager 
-For several years, I managed various video game projects, collaborating with creative and technical teams to deliver engaging and immersive experiences for players. This experience honed my skills in project management, teamwork, and understanding the intricate balance between technical constraints and creative vision.
+For several years, as a video game product manager, I managed various video game projects, collaborating with creative and technical teams to deliver engaging and immersive experiences for players. This experience honed my skills in project management, teamwork, and understanding the intricate balance between technical constraints and creative vision.
 
 ## Student at 42 Berlin 🌟
 I'm currently studying at 42 Berlin, an innovative and community-driven coding school where we learn through peer-to-peer projects and practical problem-solving. This program has provided me with hands-on experience in various aspects of computer science and software development.
