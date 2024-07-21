@@ -1,4 +1,4 @@
-## Hi there I'm Kang👋
+## Hi there, I'm Kang👋
 
 ## About Me :smile:
 I'm a former Video Game Product Manager turned Computer Science student at 42 Berlin. With a passion for technology and innovation, I am currently diving deep into the world of software development and programming.
