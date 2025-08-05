@@ -1,4 +1,6 @@
-![Page](qrcode_logo.png)
+<p align="center">
+  <img src="qrcode_logo.png" alt="Page QR" width="200">
+</p>
 ## Hi there, I'm Kang👋
 
 ## About Me :smile:
