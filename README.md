@@ -1,17 +1,5 @@
 ## Hi there, I'm Kang👋
 
-## About Me :smile:
-I'm a former Video Game Product Manager turned Computer Science student at 42 Berlin. With a passion for technology and innovation, I am currently diving deep into the world of software development and programming.
-
-## My Journey 🚀
-For several years, as a video game product manager, I managed various video game projects, collaborating with creative and technical teams to deliver engaging and immersive experiences for players. This experience honed my skills in project management, teamwork, and understanding the intricate balance between technical constraints and creative vision.
-
-## Student at 42 Berlin 🌟
-I'm currently studying at 42 Berlin, an innovative and community-driven coding school where we learn through peer-to-peer projects and practical problem-solving. This program has provided me with hands-on experience in various aspects of computer science and software development.
-
-## Projects 🧐
-Through the 42 program, I have worked on numerous projects that showcase my growing skills and passion for development. You can find some of these projects right here on my GitHub. Feel free to explore and provide feedback!
-
 ## Connect with Me 🤩
 I'm always eager to connect with like-minded individuals and explore new opportunities. You can find me on [LinkedIn](https://de.linkedin.com/in/kang-an-7b4907146?original_referer=https%3A%2F%2Fwww.google.de%2F) where I share my journey and engage with the tech community.
 
